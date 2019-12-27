@@ -1,2 +1,2 @@
-# Guardian-Politico-final
-Corrected NewsApp udacity final project
+# Guardian-Politico
+Final project submission QuizeApp Udacity Android Basics Nanodegree

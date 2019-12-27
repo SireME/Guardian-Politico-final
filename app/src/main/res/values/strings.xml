@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guardian Politico</string>
+
+    <!-- Text to display in the list when there are no earthquakes [CHAR LIMIT=NONE] -->
+    <string name="no_earthquakes">No earthquakes found.</string>
+
+    <!-- Text to display in the list when there is no internet [CHAR LIMIT=NONE] -->
+    <string name="no_internet">there is no internet connection please check
+        your network Connectivity and restart the app.</string>
+</resources>
